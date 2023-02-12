@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#logo{
+    width: 150px;
+    position: absolute;
+    top: 40px; left: 40px;
+}
+header{
+    height: 250px;
+    margin: 30px;
+    margin-top: 60px;
+    background-image: url(../assets/design1_image2.jpg);
+    background-position: 0 650px;
+
+}
+h1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 400%;
+}
